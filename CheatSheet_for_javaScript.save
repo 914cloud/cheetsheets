@@ -1,0 +1,27 @@
+1.    comment  -> //   /*   */
+2.    console.log();
+3.    console.table();
+4.    console.warn();
+5.    console.error();
+6.    console.clear();
+7.    console.time();
+8.    console.timeEnd();
+9.    camelCase
+10.   pascal
+11.   snakeCase
+12.   javaScript Engines
+13.   using node
+14.   prompt() & alert()
+15.   variables
+16.   Two ways to mix variables and strings
+17.   Data Types
+18.   Type conversion
+19.   typeof
+20.   parseInt / parseFloat / .toFixed / Number() / String() / .toString()
+21.   Math.round() / Math.random() / Math.floor() / Math.ceil() / Math.PI / Math.abs() / Math.sqrt() / Math.pow() / Math.min() / Math.max();
+22.   If Statement can also be written as ->  condition?value1:value2;
+23.   switch Statement;
+24.   Falsy values -> null/ 0 / undefined / NaN / "" /'' -> means flase;
+25.   Truthy values -> other than falsy values are all truthy values.
+26.   Double and Triple equal sign
+27.   .length / .concat / .toUpperCase / . toLowerCase / 
